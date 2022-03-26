@@ -1,4 +1,4 @@
-# csortinghat
+# CSortingHat
 
 A new Flutter project.
 
